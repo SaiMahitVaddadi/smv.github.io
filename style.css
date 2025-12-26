@@ -116,10 +116,6 @@ section p {
     transition: transform 0.3s, box-shadow 0.3s;
 }
 
-#projects:nth-child(even) .project-card {
-    background-color: #f9f9f9;
-}
-
 .project-card:hover {
     transform: translateY(-5px);
     box-shadow: 0 6px 12px rgba(0,0,0,0.15);
